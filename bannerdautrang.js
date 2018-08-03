@@ -114,7 +114,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2OFD0Fa' target='_blank'><img src='http://taimienphi.vn/tmp/cf/Images/ta/2018/4/10/psd-banner-quang-cao-facebook-2.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2OFD0Fa' target='_blank'><img src='http://taimienphi.vn/tmp/cf/Images/ta/2018/4/10/psd-banner-quang-cao-facebook-2.jpg' width='500px'/><br/>Thiết kế website tại Đà Nẵng</a>. Liên hệ Hotline 0924434417 để nhận tư vấn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
